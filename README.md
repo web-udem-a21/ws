@@ -2,16 +2,12 @@
 
 * Correcteur: Antoine Colson
 
-## Format de la remise
+## Instructions
 
-Chaque exercice devra être compris dans une balise `<section>` et précédé d'une balise `h1` contenant le titre de l'exercice.
+Le but de ce devoir est de concevoir un site complet en HTML
 
-```htmlembedded=
-<!-- Exercice 1 --> 
-<section> 
-    <h1>Exercice 1</h1> 
-    <form id="exercice-1"> 
-    ... 
-    </form> 
-</section> 
-```
+Vous devrez reproduire à l’identique sous forme d’une page HTML les PDF du
+dossier « représentation ».
+
+Vous devrez produire un fichier HTML pour chaque page. Les pages sont liés
+entre elles par la barre de navigation en haut de chaque page.
