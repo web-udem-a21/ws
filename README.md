@@ -40,7 +40,7 @@ Tout le nécessaire sur Git pour ce cours sera vu pendant la démo du mercredi 2
 
 Une fois qu'on s'y habitue, Git permet de partager des fichiers beaucoup plus facilement qu'une pièce jointe sur votre réseau social préféré.
 
-La version de votre travail qui sera corrigé est celle de votre dernier `git commit` avant l'heure de remise. N'oubliez pas de `git push`, sinon ce commit ne pourra pas être corrigé!
+La version de votre travail qui sera corrigé est celle de votre dernier `git commit` sur la branche `main` avant l'heure de remise. N'oubliez pas de `git push`, sinon ce commit ne pourra pas être corrigé!
 
 La date de remise est le jeudi 7 octobre 2021 à 23:00. 
 
