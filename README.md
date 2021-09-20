@@ -33,7 +33,7 @@ entre elles par la barre de navigation en haut de chaque page.
 
 Tout le nécessaire sur Git pour ce cours sera vu pendant la démo du mercredi 22 septembre 2021. Si vous ne connaissez pas encore Git très bien, et vous êtes pressé.e d'apprendre, il y a plusieurs façons de vous y initier.
 
-* Une ressource avec des vidéos en français très complète, mais avec beaucoup plus d'information que nécessaire pour ce cours, par le [site français Open Classrooms](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github).
+* Une [ressource extrêmement complète](https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github) avec des vidéos en français, mais avec beaucoup plus d'information que nécessaire pour ce cours, par le site français Open Classrooms
 * Le [tutoriel officiel pour apprendre Git en anglais](https://git-scm.com/docs/gittutorial), si vous n'avez qu'une heure devant vous, par les membres de la communauté Git.
 
 ## Soumission
